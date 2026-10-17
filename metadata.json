@@ -1,0 +1,6 @@
+{
+  "name": "פשוט להיפגש",
+  "description": "משחק לזמן איכות זוגי - 37 קלפי משחק, 20 אבנים טובות, קוביות וזמן איכות",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
